@@ -6,3 +6,5 @@ celery
 rabbitmq
 mysqlclient
 python-decouple
+Django>=4.2,<5.0
+djangorestframework>=3.14
